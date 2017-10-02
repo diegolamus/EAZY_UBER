@@ -34,8 +34,7 @@ namespace EAZY_UBER
         public void ingresar(Object sender)
         {
             //TODO
-            this.Close();
-            new NavegacionUsuario().Show();
+            
         }
         public void cancelarRegistro(Object sender)
         {

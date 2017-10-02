@@ -16,8 +16,7 @@ namespace EAZY_UBER
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            new Inicio().Show();
-            Application.Run();
+            Application.Run(new Inicio());
             
         }
     }
